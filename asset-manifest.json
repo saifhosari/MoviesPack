@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MoviesPack/static/css/main.58e1373c.css",
+    "main.js": "/MoviesPack/static/js/main.5914de8c.js",
+    "static/media/search.svg": "/MoviesPack/static/media/search.8c87022e935de025be3dd76ffb418eb4.svg",
+    "index.html": "/MoviesPack/index.html",
+    "main.58e1373c.css.map": "/MoviesPack/static/css/main.58e1373c.css.map",
+    "main.5914de8c.js.map": "/MoviesPack/static/js/main.5914de8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.5914de8c.js"
+  ]
+}
